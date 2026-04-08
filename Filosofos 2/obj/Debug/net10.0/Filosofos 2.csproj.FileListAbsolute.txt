@@ -1,0 +1,14 @@
+C:\Users\joaop\source\repos\Filosofos 2\bin\Debug\net10.0\Filosofos 2.exe
+C:\Users\joaop\source\repos\Filosofos 2\bin\Debug\net10.0\Filosofos 2.deps.json
+C:\Users\joaop\source\repos\Filosofos 2\bin\Debug\net10.0\Filosofos 2.runtimeconfig.json
+C:\Users\joaop\source\repos\Filosofos 2\bin\Debug\net10.0\Filosofos 2.dll
+C:\Users\joaop\source\repos\Filosofos 2\bin\Debug\net10.0\Filosofos 2.pdb
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\Filosofos 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\Filosofos 2.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\Filosofos 2.AssemblyInfo.cs
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\Filosofos 2.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\Filosofos 2.dll
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\refint\Filosofos 2.dll
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\Filosofos 2.pdb
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\Filosofos 2.genruntimeconfig.cache
+C:\Users\joaop\source\repos\Filosofos 2\obj\Debug\net10.0\ref\Filosofos 2.dll
